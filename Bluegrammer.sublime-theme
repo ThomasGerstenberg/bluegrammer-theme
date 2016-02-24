@@ -882,7 +882,7 @@
     },
     {
         "class": "auto_complete",
-        "row_padding": [5,5]
+        "row_padding": [1, 1]
     },
     {
         "class": "auto_complete_label",
