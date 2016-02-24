@@ -6,7 +6,7 @@ I just blue the brogrammer and cleaned it up a bit
 I also included a modified Monokai color scheme, which I prefer more than Brogrammer's color scheme
 
 Preview:
-![bluegrammer-preview](https://cloud.githubusercontent.com/assets/7158828/13276792/b562f932-da77-11e5-9675-5d797ebdf526.png)
+![bluegrammer-preview](https://cloud.githubusercontent.com/assets/7158828/13277070/a63552f4-da7a-11e5-838f-954c8d0b38aa.png)
 
 ## Install
 
