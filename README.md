@@ -5,6 +5,9 @@ I just blue the brogrammer and cleaned it up a bit
 
 I also included a modified Monokai color scheme, which I prefer more than Brogrammer's color scheme
 
+Preview:
+![bluegrammer-preview](https://cloud.githubusercontent.com/assets/7158828/13276792/b562f932-da77-11e5-9675-5d797ebdf526.png)
+
 ## Install
 
 ### Via Package Control
