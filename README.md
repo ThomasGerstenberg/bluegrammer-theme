@@ -21,9 +21,10 @@ NOT IMPLEMENTED
 2. Unzip and rename the folder to `Theme - Bluegrammer`
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Preferences -> Browse Packages...` in Sublime Text
 
-OR
+or
+
 1. Clone the repo into the `Packages` directory: `git clone git@github.com:ThomasGerstenberg/bluegrammer-theme.git "Theme - Bluegrammer"`
-2. Verify that the folder name for the repo is `Theme - Bluegrammer`
+2. Verify that the folder name for the repo is `Theme - Bluegrammer`.  The theme will not work otherwise
 
 ## Setup
 
